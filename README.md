@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Me chamo Nadson Junior 
+- Tenho 16 anos
+- Estou Cursando o Curso De Programador De Jogos Digitais
+- Finalizando O Ensino Médio 
 <!--
 **Nadsonjrr/Nadsonjrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
